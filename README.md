@@ -4,7 +4,7 @@
 
 ### Clone source code
 Make a folder on your local and clone source on your local
-- ``` git clone https://gitlab-new.bap.jp/cuongpnv/intern-php.git```
+- ``` git clone https://github.com/huutuong2411/cinemaAPI.git```
 
 ### Install source
 - `cd to root folder`
@@ -27,11 +27,8 @@ Make a folder on your local and clone source on your local
 ### ⚖️ License
 This project is a web application built using the Laravel framework. It is open-source software licensed under [MIT license](https://opensource.org/licenses/MIT).
 
-### 👪 Author
-* phuocvd@bap.jp
-
-### 👪 Attribution
-* phuocvd@bap.jp 
+### API demo
+![image](https://github.com/huutuong2411/cinemaAPI/assets/93025125/2006d325-84c0-43b8-a2f0-7e617c890ba2)
 
 ## Happy coding!
 
